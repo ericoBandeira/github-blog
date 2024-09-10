@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
   display: flex;
@@ -7,7 +7,6 @@ export const HeaderContainer = styled.div`
   justify-content: center;
   max-width: 100vw;
   img {
-    width: 100%
-
+    width: 100%;
   }
 `;
